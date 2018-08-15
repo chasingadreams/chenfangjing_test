@@ -29,7 +29,7 @@ public class CarsInfoTest {
 
 	@Test
 	public void testGetCarsName() {
-		assertEquals(new CarsInfo().getCarsName(),("凯迪拉克"));
+		assertEquals(new CarsInfo().getCarsName(),("保时捷"));
 	}
 
 	@Test
